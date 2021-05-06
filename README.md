@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/231f286b-2895-4ba1-a7f0-ba1e906a8471/deploy-status)](https://app.netlify.com/sites/sun-homes/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
